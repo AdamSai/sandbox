@@ -72,7 +72,6 @@
 				{
 					WorldPos = tr.EndPos,
 				};
-
 				ent.SetModel( "models/citizen_props/balloonregular01.vmdl" );
 				ent.PhysicsBody.GravityScale = -0.2f;
 				ent.RenderColor = color;

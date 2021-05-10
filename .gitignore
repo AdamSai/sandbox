@@ -9,3 +9,4 @@ tools_thumbnail_cache.bin
 *.dll
 *.pdb
 .intermediate/net5.0/sandbox.deps.json
+.vs/

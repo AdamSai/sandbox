@@ -16,9 +16,9 @@
 		"gamemodes":
 		[
 				{
-						"name": "sandbox",
-						"title": "Sandbox Mode",
-						"description": "Garry's Mode Too"
+						"name": "pred-sandbox",
+						"title": "Pred's Sandbox Mode yoink",
+						"description": "Forked off the offical Sandbox Repo. Made to learn the API"
 				}
 		]
 }
